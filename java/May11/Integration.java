@@ -1,3 +1,4 @@
+package java.May11;
 // Integration
 import java.util.Scanner;
 public class Integration {
