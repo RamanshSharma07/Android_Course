@@ -1,3 +1,6 @@
 [submodule "java_code"]
 	path = java_code
 	url = https://github.com/MrShashankBisht/java_code.git
+[submodule "Android_studio"]
+	path = Android_studio
+	url = https://github.com/MrShashankBisht/Android_studio.git
